@@ -1,2 +1,4 @@
 # supriya-repo
-My-First-Repository.Author-Supriya Sukre
+My-First-Repository.
+<br>
+Author-Supriya Sukre
